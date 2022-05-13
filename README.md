@@ -7,8 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarlosIgor&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlosIgor&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-  
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Java" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -21,7 +20,9 @@
   
   ##
   
-  <div>
+<div>
+  
+#### Contato
   <a href="https://www.linkedin.com/in/marlos-igor-9a76bb204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:maroosigor@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.python.org/?msclkid=3fb1823fd14e11eca588f37a5693fca9" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
@@ -30,4 +31,4 @@
     
 ![Snake animation](https://github.com/MarlosIgor/MarlosIgor/blob/output/github-contribution-grid-snake.svg)
     
-  <div>
+<div>
