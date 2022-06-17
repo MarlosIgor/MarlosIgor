@@ -1,6 +1,6 @@
 ## Olá, sou Marlos Igor 👏🏻
 - 🧑🏻‍💻 Bem Vindo ao meu GitHub
-- 🖥️ Back-end Developer | Java | Python
+- 🖥️ Back-end Developer Java | Python
 - 📕 Uninassau
 <div>
   <a href="https://github.com/MarlosIgor">
