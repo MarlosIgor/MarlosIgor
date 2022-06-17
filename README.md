@@ -1,7 +1,7 @@
 ## Olá, sou Marlos Igor 👏🏻
 - 🧑🏻‍💻 Bem Vindo ao meu GitHub
 - 🖥️ Back-end Developer Java | Python
-- 📕 Uninassau 2022.1 até 2024.1
+- 📕 Uninassau  jan de 2022 - jan de 2024
 <div>
   <a href="https://github.com/MarlosIgor">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarlosIgor&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
