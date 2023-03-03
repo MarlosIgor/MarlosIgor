@@ -1,6 +1,6 @@
 ## Olá, sou Marlos Igor 👏🏻
 - 🧑🏻‍💻 Seja muito bem vindo(a)
-- 🖥️ Desenvolvedor backend Java
+- 🖥️ Back-End Developer Java
 - 📕 Uninassau 2022 - 2024
 <div>
   <a href="https://github.com/MarlosIgor">
