@@ -1,7 +1,7 @@
 ## Olá, sou Marlos Igor 👏🏻
 - 🧑🏻‍💻 Seja muito bem vindo(a)
 - 🖥️ Back-End Developer Java
-- 📕 CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU (UNINASSAU) 2022 - 2024
+- 📕 Centro Universitário Maurício de Nassau (UNINASSAU - EAD) 2022 - 2024
 <div>
   <a href="https://github.com/MarlosIgor">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarlosIgor&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
