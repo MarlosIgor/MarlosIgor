@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=50&pause=1000&color=00F711&background=FFFFFF00&width=650&height=85&lines=Ol%C3%A1%2C+Bem-Vindo(a)!+👏🏻;Eu+sou+Marlos+Igor+🧑🏻‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=50&pause=3000&color=00F711&background=FFFFFF00&width=650&height=85&lines=Ol%C3%A1%2C+Bem-Vindo(a)!+👏🏻;Eu+sou+Marlos+Igor+🧑🏻‍💻)](https://git.io/typing-svg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&repeat=false&width=825&lines=🖥️ Back-End+Developer" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&repeat=false&width=825&lines=🌐 Data Engineer" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&repeat=false&width=825&lines=🎓 Centro+Universit%C3%A1rio+Maur%C3%ADcio+de+Nassau+(UNINASSAU+-+EAD)+2022+-+2024" alt="Typing SVG" /></a>
