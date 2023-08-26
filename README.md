@@ -30,6 +30,7 @@
   <a href="https://www.java.com/pt-BR/?msclkid=24ba6cefd14e11ec98ca5553317f5471" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
   <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
     
-![Snake animation](https://github.com/MarlosIgor/MarlosIgor/blob/output/github-contribution-grid-snake.svg)
+<!--[Snake animation](https://github.com/MarlosIgor/MarlosIgor/blob/output/github-contribution-grid-snake.svg) -->
+<img alt="My Contributions" src="https://github.com/MarlosIgor/MarlosIgor/blob/output/github-contribution-grid-snake.svg"/>
     
 <div>
