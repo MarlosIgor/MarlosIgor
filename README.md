@@ -18,15 +18,19 @@
   <img align="center" alt="Java" height="80" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="55" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Python" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Anaconda" height="42" width="47" src="https://icon.icepanel.io/Technology/svg/Anaconda.svg">
+  <!-- <img align="center" alt="MySQL" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
+  <!-- <img align="center" alt="PostgreSQL" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> -->
   <img align="center" alt="AWS" height="45" width="43" src="https://www.svgrepo.com/show/331300/aws.svg">
   <img align="center" alt="Hadoop" height="45" width="43" src="https://logos-download.com/wp-content/uploads/2019/11/Hadoop_Logo.png">
   <img align="center" alt="Spark" height="45" width="70" src="https://miro.medium.com/max/1400/1*tP-dw4Oj_42BYbkdtYbjMA.png">
   <img align="center" alt="SQL" height="45" width="43" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
   <img align="center" alt="NoSQL" height="45" width="43" src="https://cpl.thalesgroup.com/sites/default/files/inline-images/nosql%20databases.png">
   <img align="center" alt="Git" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="42" src="https://emoji.gg/assets/emoji/3716-blurple-github.png">
+  <img align="center" alt="GitHub" height="40" width="43" src="https://emoji.gg/assets/emoji/3716-blurple-github.png">
+  <img align="center" alt="GitHub" height="50" width="47" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg">
+
+  
 
   #
 </div>
