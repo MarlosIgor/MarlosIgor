@@ -10,7 +10,6 @@
 </div>
     
 <div style="display: inline_block"><br>
-  
   #### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=7&pause=1000&color=A3A3A3&repeat=false&width=825&lines=🖥️ Skills" alt="Typing SVG" /></a>
   <img align="center" alt="Java" height="80" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="55" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -24,23 +23,19 @@
   <img align="center" alt="Hadoop" height="45" width="70" src="https://miro.medium.com/max/1400/1*tP-dw4Oj_42BYbkdtYbjMA.png">
   <img align="center" alt="Git" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="42" src="https://emoji.gg/assets/emoji/3716-blurple-github.png">
-  
 </div>
   
   
 <div>
-  
-#### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=7&pause=1000&color=A3A3A3&repeat=false&width=825&lines=🖥️ Contact" alt="Typing SVG" /></a>
+  #### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=7&pause=1000&color=A3A3A3&repeat=false&width=825&lines=🖥️ Contact" alt="Typing SVG" /></a>
   <!--<img align="right" alt="Foto" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp"> -->
   <a href="https://www.linkedin.com/in/marlos-igor-9a76bb204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:maroosigor@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
   <img alt="Foto" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp">
   <!--<a href="https://www.python.org/?msclkid=3fb1823fd14e11eca588f37a5693fca9" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> -->
   <!--<a href="https://www.java.com/pt-BR/?msclkid=24ba6cefd14e11ec98ca5553317f5471" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> -->
   <!--<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a> -->
-    
-<!--[Snake animation](https://github.com/MarlosIgor/MarlosIgor/blob/output/github-contribution-grid-snake.svg) -->
-<img alt="My Contributions" src="https://github.com/MarlosIgor/MarlosIgor/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <!--[Snake animation](https://github.com/MarlosIgor/MarlosIgor/blob/output/github-contribution-grid-snake.svg) -->
+  <img alt="My Contributions" src="https://github.com/MarlosIgor/MarlosIgor/blob/output/github-contribution-grid-snake-dark.svg"/>
     
 <div>
