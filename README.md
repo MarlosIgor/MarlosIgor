@@ -13,7 +13,7 @@
     
 <div style="display: inline_block"><br>
   
-  #### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=7&pause=1000&color=A3A3A3&repeat=false&width=825&lines=🖥️ Skills" alt="Typing SVG" /></a>
+  #### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=7&pause=1000&color=A3A3A3&repeat=false&width=825&lines=💪🧠🔨 Skills" alt="Typing SVG" /></a>
   
   <img align="center" alt="Java" height="80" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="55" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
