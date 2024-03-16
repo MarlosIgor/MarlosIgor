@@ -41,7 +41,7 @@
   <a href="mailto:maroosigor@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 
-  <img alt="Foto" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp">
+  <img alt="Foto" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp" width="857" height="200">
   <!--<a href="https://www.python.org/?msclkid=3fb1823fd14e11eca588f37a5693fca9" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> -->
   <!--<a href="https://www.java.com/pt-BR/?msclkid=24ba6cefd14e11ec98ca5553317f5471" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> -->
   <!--<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a> -->
@@ -50,4 +50,4 @@
 
   #
     
-<div>
+<div/>
