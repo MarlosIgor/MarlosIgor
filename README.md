@@ -17,16 +17,9 @@
   <img height="125em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarlosIgor&theme=blue-green"/>
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlosIgor&layout=compact&langs_count=7&theme=blue-green"/>
   <img height="103em" src="https://github-profile-trophy.vercel.app/?username=MarlosIgor&theme=onedark" />
-
-
-
     
+  #
 </div>
-
-
-
-
-
     
 <div style="display: inline_block"><br>
   
