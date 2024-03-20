@@ -13,9 +13,10 @@
 
 <div>
   <a href="https://github.com/MarlosIgor">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=MarlosIgor&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="125em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarlosIgor&theme=blue-green"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlosIgor&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarlosIgor&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarlosIgor&theme=blue-green"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlosIgor&layout=compact&langs_count=7&theme=blue-green"/>
+    <img alt="Foto" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp" width="300" height="130">
   <img height="103em" src="https://github-profile-trophy.vercel.app/?username=MarlosIgor&theme=onedark" />
     
   #
