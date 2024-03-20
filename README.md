@@ -3,13 +3,29 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&color=A3A3A3&repeat=false&width=825&lines=⚙️ Data Engineer" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&color=A3A3A3&repeat=false&width=825&lines=🎓 Centro+Universit%C3%A1rio+Maur%C3%ADcio+de+Nassau+(UNINASSAU+-+EAD)+2022+-+2024" alt="Typing SVG" /></a>
 
-<div>
+  <!--<div>
   <a href="https://github.com/MarlosIgor">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarlosIgor&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlosIgor&layout=compact&langs_count=7&theme=chartreuse-dark"/>
     
   #
+</div>-->
+
+<div>
+  <a href="https://github.com/MarlosIgor">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarlosIgor&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlosIgor&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
+
+<div>
+  <a href="https://github.com/MarlosIgor">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarlosIgor&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlosIgor&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+
+
+
     
 <div style="display: inline_block"><br>
   
