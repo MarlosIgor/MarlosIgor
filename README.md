@@ -62,6 +62,8 @@
   <!--<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a> -->
   <!--[Snake animation](https://github.com/MarlosIgor/MarlosIgor/blob/output/github-contribution-grid-snake.svg) -->
   <img alt="My Contributions" src="https://github.com/MarlosIgor/MarlosIgor/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MarlosIgor&theme=onedark" />
+
 
   #
     
