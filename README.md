@@ -64,7 +64,4 @@
   <img alt="My Contributions" src="https://github.com/MarlosIgor/MarlosIgor/blob/output/github-contribution-grid-snake-dark.svg"/>
   <img src="https://github-profile-trophy.vercel.app/?username=MarlosIgor&theme=onedark" />
 
-
-  #
-    
 <div/>
