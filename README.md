@@ -19,9 +19,9 @@
   <img height="103em" src="https://github-profile-trophy.vercel.app/?username=MarlosIgor&theme=onedark" />
     
   #
-</div>
+  <!--</div>-->
     
-<div style="display: inline_block"><br>
+ <!--<<div style="display: inline_block"><br>-->
   
   #### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=7&pause=1000&color=A3A3A3&repeat=false&width=825&lines=🔥 Skills" alt="Typing SVG" /></a>
   
