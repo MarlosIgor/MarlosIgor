@@ -29,6 +29,8 @@
   
   <img align="center" alt="Java" height="80" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="55" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Microservicio" height="48" width="52" src="https://cdn-icons-png.flaticon.com/512/6146/6146577.png">
+  <img align="center" alt="JUnit" height="40" width="40" src="https://www.codemr.co.uk/wp-content/uploads/2018/11/junit5-logo-480x480.png">
   <img align="center" alt="Python" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Anaconda" height="42" width="47" src="https://icon.icepanel.io/Technology/svg/Anaconda.svg">
   <!-- <img align="center" alt="MySQL" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
