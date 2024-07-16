@@ -69,7 +69,7 @@
   #### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=7&pause=1000&color=A3A3A3&repeat=false&width=825&lines=💬 Contact" alt="Typing SVG" /></a>
   <!--<img align="right" alt="Foto" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp"> -->
   <a href="https://www.linkedin.com/in/m-igor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.marlosigor.cloud/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href="https://portfolio-marlosigor.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="mailto:maroosigor@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 
