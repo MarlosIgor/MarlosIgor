@@ -16,7 +16,7 @@
   <img height="164em" src="https://github-readme-stats.vercel.app/api?username=MarlosIgor&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="164em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarlosIgor&theme=blue-green"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlosIgor&layout=compact&langs_count=7&theme=blue-green"/>
-  <img alt="Foto" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp" width="560" height="145">
+  <img alt="Foto" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp" width="500" height="145">
   
   
     
