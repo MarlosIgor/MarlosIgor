@@ -41,21 +41,15 @@
   <img align="center" alt="AirFlow" height="40" width="43" src="https://www.pngrepo.com/png/353380/180/airflow.png">
   <img align="center" alt="Snowflake" height="40" width="43" src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631">
   <img align="center" alt="Docker" height="45" width="60" src="https://blog.mingdao.com/wp-content/uploads/2020/11/3.png">
-
   <img align="center" alt="DBT" height="40" width="40" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png">
-  
   <img align="center" alt="SQL" height="45" width="43" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
   <img align="center" alt="NoSQL" height="45" width="43" src="https://cpl.thalesgroup.com/sites/default/files/inline-images/nosql%20databases.png">
   <img align="center" alt="Git" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="42" width="43" src="https://emoji.gg/assets/emoji/3716-blurple-github.png">
-  
-
-  
   <img align="center" alt="IntelliJ" height="40" width="40" src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0">
   <img align="center" alt="PyCharm" height="40" width="40" src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0">
   <img align="center" alt="Vscod" height="40" width="40" src="https://th.bing.com/th/id/R.01d46d43618345a675b4348124ad403b?rik=NE%2fZLSJklPkUOA&pid=ImgRaw&r=0">
   <img align="center" alt="Eclipse" height="40" width="40" src="https://foojay.io/wp-content/uploads/2021/03/eclipse-logo.png">
-  
   <img align="center" alt="Postman" height="43" width="43" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png">
   <img align="center" alt="Insomnia" height="46" width="46" src="https://www.svgrepo.com/show/353904/insomnia.svg">
   <img align="center" alt="Notion" height="45" width="43" src="https://groovywink.com/wp-content/uploads/2019/05/notion-logo-no-background-287x300.png">
