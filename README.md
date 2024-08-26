@@ -54,7 +54,7 @@
   <img align="center" alt="Eclipse" height="40" width="40" src="https://foojay.io/wp-content/uploads/2021/03/eclipse-logo.png">
   
   <img align="center" alt="Postman" height="43" width="43" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png">
-  <img align="center" alt="Insomnia" height="46" width="46" src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png">
+  <img align="center" alt="Insomnia" height="46" width="46" src="https://www.svgrepo.com/show/353904/insomnia.svg">
   <img align="center" alt="Notion" height="45" width="43" src="https://groovywink.com/wp-content/uploads/2019/05/notion-logo-no-background-287x300.png">
   <img align="center" alt="Windows" height="50" width="45" src="https://www.pngall.com/wp-content/uploads/10/Windows-11-PNG-File.png">
   <img align="center" alt="Ubuntu" height="43" width="50" src="https://th.bing.com/th/id/R.c162a0bfa088f155aa0bbae1de32abe5?rik=BojhWACAav90Rw&pid=ImgRaw&r=0">  
