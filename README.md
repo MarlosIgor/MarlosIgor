@@ -30,9 +30,9 @@
     
  <!--<<div style="display: inline_block"><br>-->
   
-  <h2 align="center">
+  <h4 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=32&pause=1000&color=FFD700&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%94%A5+My+Skills" alt="Typing Animation" />
-  </h2>
+  </h4>
   
   <img align="center" alt="Java" height="80" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="55" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -69,9 +69,9 @@
   
   
 <div>
-  
+
   <h4 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&color=A3A3A3&repeat=false&width=825&lines=%F0%9F%92%AC+Contact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=32&pause=1000&color=FFD700&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%94%A5+Contact" alt="Typing Animation" />
   </h4>
 
   <!--<img align="right" alt="Foto" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp"> -->
@@ -79,13 +79,15 @@
   <a href="https://marlos-igor.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="mailto:maroosigor@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
+  #
 
-  <img alt="Foto" src="https://cdn.dribbble.com/users/4047034/screenshots/9176275/media/b40e0d6c115634a62ec51c9b68a16f3f.gif" width="857" height="200">
+  
   <!--<a href="https://www.python.org/?msclkid=3fb1823fd14e11eca588f37a5693fca9" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> -->
   <!--<a href="https://www.java.com/pt-BR/?msclkid=24ba6cefd14e11ec98ca5553317f5471" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> -->
   <!--<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a> -->
   <!--[Snake animation](https://github.com/MarlosIgor/MarlosIgor/blob/output/github-contribution-grid-snake.svg) -->
   <img alt="My Contributions" src="https://github.com/MarlosIgor/MarlosIgor/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Foto" src="https://cdn.dribbble.com/users/4047034/screenshots/9176275/media/b40e0d6c115634a62ec51c9b68a16f3f.gif" width="857" height="200">
   <img src="https://github-profile-trophy.vercel.app/?username=MarlosIgor&theme=onedark" />
 
 <div/>
