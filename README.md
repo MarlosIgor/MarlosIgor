@@ -71,7 +71,7 @@
 <div>
 
   <h4 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=32&pause=1000&color=FFD700&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%94%A5+Contact" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=32&pause=1000&color=FFD700&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%92%AC%20Contact" alt="Typing Animation" />
   </h4>
 
   <!--<img align="right" alt="Foto" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp"> -->
