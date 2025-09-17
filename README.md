@@ -48,8 +48,10 @@
   <img align="center" alt="BidData" height="45" width="47" src="https://cdn-icons-png.flaticon.com/512/2480/2480707.png">
   <img align="center" alt="Spark" height="50" width="80" src="https://uploads-ssl.webflow.com/5e724862760345325327026c/5fa7238e9ad1b43af56de907_apache-spark-white-logo-p-500.png">
   <img align="center" alt="AirFlow" height="40" width="43" src="https://www.pngrepo.com/png/353380/180/airflow.png">
+  <img align="center" alt="Databricks " height="50" width="48" src="https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png">
   <img align="center" alt="Snowflake" height="40" width="43" src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631">
   <img align="center" alt="Docker" height="45" width="60" src="https://blog.mingdao.com/wp-content/uploads/2020/11/3.png">
+  <img align="center" alt="Kubernetes" height="45" width="47" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png">
   <img align="center" alt="DBT" height="38" width="40" src="https://i.pinimg.com/originals/47/21/58/472158c2429007c4c4a0a7467aec888d.png">
   <img align="center" alt="SQL" height="45" width="43" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
   <img align="center" alt="NoSQL" height="45" width="43" src="https://cpl.thalesgroup.com/sites/default/files/inline-images/nosql%20databases.png">
