@@ -42,8 +42,10 @@
   <img align="center" alt="Anaconda" height="42" width="47" src="https://icon.icepanel.io/Technology/svg/Anaconda.svg">
   <!-- <img align="center" alt="MySQL" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
   <!-- <img align="center" alt="PostgreSQL" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> -->
+  <img align="center" alt="GCP" height="70" width="65" src="https://img.icons8.com/color/512/google-cloud.png">
   <img align="center" alt="AWS" height="70" width="65" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg">
   <img align="center" alt="Hadoop" height="45" width="47" src="https://logos-download.com/wp-content/uploads/2019/11/Hadoop_Logo.png">
+  <img align="center" alt="BidData" height="45" width="47" src="https://cdn-icons-png.flaticon.com/512/2480/2480707.png">
   <img align="center" alt="Spark" height="50" width="80" src="https://uploads-ssl.webflow.com/5e724862760345325327026c/5fa7238e9ad1b43af56de907_apache-spark-white-logo-p-500.png">
   <img align="center" alt="AirFlow" height="40" width="43" src="https://www.pngrepo.com/png/353380/180/airflow.png">
   <img align="center" alt="Snowflake" height="40" width="43" src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631">
