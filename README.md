@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&color=A3A3A3&repeat=false&width=825&lines=%E2%9A%99%EF%B8%8F+Data+Engineer" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&color=A3A3A3&repeat=false&width=1200&lines=%F0%9F%8E%93+P%C3%B3s-Gradua%C3%A7%C3%A3o+em+Arquitetura+de+Cloud+Computing+(2025+-+2026)+-+cursando" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&color=A3A3A3&repeat=false&width=1200&lines=%F0%9F%8E%93+P%C3%B3s-Gradua%C3%A7%C3%A3o+em+Arquitetura+de+Cloud+Computing+(2025+-+2026)+-+Cursando" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&pause=1000&color=A3A3A3&repeat=false&width=1200&lines=%F0%9F%8E%93+Graduado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+(2022+-+2025)" alt="Typing SVG" />
 
